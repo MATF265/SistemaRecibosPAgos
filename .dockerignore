@@ -1,0 +1,15 @@
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+staticfiles
+node_modules
+.git
+.gitignore
+Dockerfile
+docker-compose.yml
+.env
+*.env
+db.sqlite3

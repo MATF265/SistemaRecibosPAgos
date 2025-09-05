@@ -1,0 +1,22 @@
+﻿# Python / Django
+__pycache__/
+*.py[cod]
+*.log
+*.sqlite3
+db.sqlite3
+staticfiles/
+media/
+.venv/
+venv/
+
+# Archivos de entorno (NUNCA subir)
+.env
+*.env
+sist_rec_api/.env
+
+# Node (por si subes el front luego)
+node_modules/
+
+# IDE
+.vscode/
+.idea/
